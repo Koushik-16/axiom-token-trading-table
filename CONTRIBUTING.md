@@ -6,7 +6,7 @@ Thank you for your interest in contributing! This document provides guidelines f
 
 1. **Fork and Clone**
    ```bash
-   git clone https://github.com/your-username/token-trading-table.git
+   git clone https://github.com/Koushik-16/token-trading-table.git
    cd token-trading-table
    ```
 

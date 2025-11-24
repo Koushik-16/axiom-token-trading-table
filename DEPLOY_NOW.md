@@ -242,9 +242,9 @@ Before submitting, ensure you have:
 
 When submitting, provide:
 
-1. **GitHub Repository URL**: `https://github.com/yourusername/token-trading-table`
-2. **Live Deployment URL**: `https://token-trading-table.vercel.app`
-3. **Video Demo URL**: `https://youtube.com/watch?v=xxxxx`
+1. **GitHub Repository URL**: `https://github.com/Koushik-16/axiom-token-trading-table`
+2. **Live Deployment URL**: `https://axiom-token-trading-table.vercel.app/`
+3. **Video Demo URL**: `https://youtu.be/0yS4rYDDEY4`
 
 ## 🎉 You're Done!
 

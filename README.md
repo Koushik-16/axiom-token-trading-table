@@ -16,7 +16,7 @@
 
 
 - **Deployment**: [Vercel Link](https://axiom-token-trading-table.vercel.app/) (Will be added after deployment)
-- **Video Demo**: [YouTube Link](#) (Will be added after recording)
+- **Video Demo**: [YouTube Link](https://youtu.be/0yS4rYDDEY4) (Will be added after recording)
 
 ## ✨ Features
 
@@ -57,7 +57,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/token-trading-table.git
+git clone https://github.com/Koushik-16/token-trading-table.git
 
 # Navigate to project directory
 cd token-trading-table
