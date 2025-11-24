@@ -8,6 +8,12 @@
 [![Redux Toolkit](https://img.shields.io/badge/Redux-Toolkit-764abc?logo=redux)](https://redux-toolkit.js.org/)
 
 ## 🚀 Live Demo
+<img width="1897" height="908" alt="desktop" src="https://github.com/user-attachments/assets/52a39af6-eb97-48a7-9b9d-64ff6ada8cab" />
+<img width="380" height="782" alt="mobile" src="https://github.com/user-attachments/assets/0dd124c8-99d4-48e3-9e97-811d1d6fa192" />
+<img width="1892" height="907" alt="loading" src="https://github.com/user-attachments/assets/cfe4811b-e553-4fb7-957c-06fbb441dd7e" />
+<img width="841" height="618" alt="modal" src="https://github.com/user-attachments/assets/2724a90d-bc5d-4358-90aa-ab3dc8bed5a9" />
+<img width="986" height="1080" alt="tabs" src="https://github.com/user-attachments/assets/e402f116-fd07-4424-af4e-fbe9507ee682" />
+
 
 - **Deployment**: [Vercel Link](https://axiom-token-trading-table.vercel.app/) (Will be added after deployment)
 - **Video Demo**: [YouTube Link](#) (Will be added after recording)
