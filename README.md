@@ -9,7 +9,7 @@
 
 ## 🚀 Live Demo
 
-- **Deployment**: [Vercel Link](#) (Will be added after deployment)
+- **Deployment**: [Vercel Link](https://axiom-token-trading-table.vercel.app/) (Will be added after deployment)
 - **Video Demo**: [YouTube Link](#) (Will be added after recording)
 
 ## ✨ Features
@@ -135,7 +135,7 @@ vercel --prod
 This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
-
+Koushik Dandapat
 Created as a technical assessment for Eterna Labs
 
 ---
